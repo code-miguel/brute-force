@@ -1,6 +1,6 @@
 
 
-
+//hi miguel
 let generatedNumbers = [];
 let targetNumber = 685;  // target
 let randomGuess = Math.floor((Math.random() * 1000)); // returns a number btw 0 and 999
